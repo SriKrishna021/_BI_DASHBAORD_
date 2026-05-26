@@ -4,16 +4,6 @@
 
 ![Dashboard Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![Data Rows](https://img.shields.io/badge/Dataset-1200%2B%20Rows-blue) ![Charts](https://img.shields.io/badge/Charts-8%20Interactive-purple) ![License](https://img.shields.io/badge/License-MIT-orange)
 
----
-
-## 🚀 Live Demo
-
-Simply open `index.html` in any modern browser — **no server required**.
-
-> Or deploy free on GitHub Pages: `Settings → Pages → main / root`
-
----
-
 ## ✨ Features
 
 ### 📈 KPI Tracking (5 Key Metrics)
