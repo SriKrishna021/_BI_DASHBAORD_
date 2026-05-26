@@ -47,19 +47,6 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-sales-dashboard/
-├── index.html              ← Main dashboard (single file app)
-├── data/
-│   └── sales_data.csv      ← 1,200-row dataset (importable to Excel/DB)
-├── generate_data.js        ← Node.js script to regenerate dataset
-└── README.md               ← This file
-```
-
----
-
 ## 🗃️ Dataset Schema
 
 **File:** `data/sales_data.csv` — **1,200 rows** | **15 columns**
@@ -90,39 +77,6 @@ sales-dashboard/
 - **Date Range:** Jan 2023 – Dec 2024
 
 ---
-
-## 🔧 How to Use
-
-### Option 1: Direct Open
-```bash
-# Just double-click index.html — no setup needed!
-```
-
-### Option 2: Local Server (recommended for CSV auto-load)
-```bash
-# Python
-python -m http.server 8000
-
-# Node.js
-npx serve .
-
-# Then visit: http://localhost:8000
-```
-
-### Option 3: GitHub Pages (free hosting)
-1. Push to GitHub
-2. Go to `Settings → Pages`
-3. Source: `main` branch, `/ (root)`
-4. Your dashboard is live at `https://username.github.io/repo-name`
-
-### Option 4: Regenerate Dataset
-```bash
-node generate_data.js
-# Outputs: data/sales_data.csv (1200 rows)
-```
-
----
-
 ## 📥 Importing Your Own Data
 
 The dashboard accepts any CSV with these columns (column names must match exactly):
@@ -150,15 +104,6 @@ Click **📂 Import CSV/Data** to load your own file.
 
 ---
 
-## 🎨 Design
-
-- **Theme:** Dark mode with electric blue/teal/coral accent palette
-- **Grid:** CSS Grid & Flexbox responsive layout
-- **Animations:** CSS transitions, Chart.js animations, loading screen
-- **Responsive:** Works on mobile, tablet, desktop
-
----
-
 ## 📊 Use Cases
 
 - 🎓 **Academic projects** — Data visualization, business analytics coursework
@@ -176,19 +121,3 @@ Ideas to make it your own:
 - Add Excel (.xlsx) export using SheetJS
 - Deploy with a Node.js/Express backend + SQLite database
 - Add user authentication and role-based views
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
-
----
-
-## 👨‍💻 Author
-
-Built as part of a Design Thinking & Innovation (DTI) project — B.Tech CSE, 2024–2025.
-
----
-
-⭐ **If you found this useful, please star the repo!**
