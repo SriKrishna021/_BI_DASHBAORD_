@@ -101,23 +101,3 @@ Click **📂 Import CSV/Data** to load your own file.
 | Google Fonts (Space Grotesk + Syne) | Typography |
 
 **Zero dependencies to install. Zero build step.**
-
----
-
-## 📊 Use Cases
-
-- 🎓 **Academic projects** — Data visualization, business analytics coursework
-- 💼 **Portfolio** — Showcase frontend + data skills on GitHub/LinkedIn
-- 📈 **Business** — Adapt with real data for actual sales tracking
-- 🔬 **Learning** — Study Chart.js, CSV parsing, dashboard architecture
-
----
-
-## 🚀 Extending the Dashboard
-
-Ideas to make it your own:
-- Connect to a real database (MySQL/PostgreSQL) via a backend API
-- Add date range picker (start/end date slicers)
-- Add Excel (.xlsx) export using SheetJS
-- Deploy with a Node.js/Express backend + SQLite database
-- Add user authentication and role-based views
