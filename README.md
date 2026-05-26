@@ -2,7 +2,7 @@
 
 > A production-grade, fully interactive sales analytics dashboard built with vanilla HTML, CSS & JavaScript. No build tools or frameworks required — just open `index.html`.
 
-![Dashboard Preview](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_1.png) ![Data Rows](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_4.png) ![Charts](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_2.png) ![License](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_5.png)
+![Dashboard Preview](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_1.png) ![Data Rows](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_2.png) ![Charts](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_4.png) ![License](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_5.png)
 
 ## ✨ Features
 
