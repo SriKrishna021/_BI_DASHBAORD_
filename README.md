@@ -2,7 +2,7 @@
 
 > A production-grade, fully interactive sales analytics dashboard built with vanilla HTML, CSS & JavaScript. No build tools or frameworks required — just open `index.html`.
 
-![Dashboard Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![Data Rows](https://img.shields.io/badge/Dataset-1200%2B%20Rows-blue) ![Charts](https://img.shields.io/badge/Charts-8%20Interactive-purple) ![License](https://img.shields.io/badge/License-MIT-orange)
+![Dashboard Preview](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_1.png) ![Data Rows](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_4.png) ![Charts](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_2.png) ![License](https://github.com/SriKrishna021/_BI_DASHBAORD_/blob/4e57554a9e9cb62cd2e9dce65802d3cdd8b10a1a/DASHBAORD_5.png)
 
 ## ✨ Features
 
